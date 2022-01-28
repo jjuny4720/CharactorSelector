@@ -23,8 +23,8 @@ body{
   margin: 4px;
   border: 3px solid #fff;
   border-radius: 10px;
-  box-sizing: border-box;/* 요소가 커짐을 방지*/
-  background-color: #555;
+  box-sizing: border-box;/*요소가 커짐을 방지*/
+  /* background-color: #555; */
   overflow:hidden;
   transform: skewX(-14deg);
   transition: 
